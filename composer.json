@@ -1,0 +1,14 @@
+{
+    "name": "qy-upup/sotavideo.ai",
+    "description": "Professional PHP integration for sotavideo.ai",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "sotavideo.ai\\\\": "src/"
+        }
+    }
+}
