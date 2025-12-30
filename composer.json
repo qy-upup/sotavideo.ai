@@ -1,0 +1,14 @@
+{
+  "name": "qy-upup/sotavideo.ai",
+  "description": "A robust and reliable PHP library for seamless integration with the sotavideo.ai platform, enabling developers to leverage its powerful video processing and AI capabilities.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "sotavideo.ai\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
